@@ -40,9 +40,6 @@ export default async function Home() {
         Dashboard
       </a>
       <div className='flex-col'>
-        <Image src="/worm5.png" alt="worm" width={220} height={220} priority 
-          className='opaci-50 pos-abs top-0 noclick'  
-        />
         <a href="/" rel="noopener noreferrer" className='nodeco  w-min-100px z-800 pos-rel' >
           <h1 className='tx-center flex-col tx-bold-2 tx-white bg-black py-2 z-800 pos-rel box-shadow-5-b'>
             <span className='tx-'><b>W</b>eb</span>
